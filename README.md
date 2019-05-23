@@ -1,4 +1,5 @@
 # Catering Menu Management Application:
+CMMA is an application that can be used to manage catering menu.
 
 ### Tools Used: Java, MySQL, JSP
 
